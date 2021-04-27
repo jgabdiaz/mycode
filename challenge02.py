@@ -27,6 +27,5 @@ print (icecream[-1],icecream[0],"and",userName,"chooses to be",icecream[1])
 
 print (f"{icecream[-1]} {icecream[0]} and {userName} chooses to be {icecream[1]}")
 
-
         
 
