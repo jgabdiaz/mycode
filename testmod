@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+
+def Mult_3(x):
+    if x % 3 = 0:
+       return True
+x=9
+
+print(Mult_3(x))
+
+

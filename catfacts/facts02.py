@@ -17,5 +17,7 @@ def main():
         print("{} is currently in {}".format(str(EveryAstronaut["name"]), str(EveryAstronaut["craft"])))
 
     print("")
+
+    
 main()
 
